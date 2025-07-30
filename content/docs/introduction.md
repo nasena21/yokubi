@@ -1,10 +1,11 @@
 ---
-title: Index
+title: Introduction
 weight: 1
-next: first-page
+type: docs
+prev: /
 ---
 
-![logo](images/logo.svg)
+![logo](/docs/images/logo.svg)
 
 Welcome to **Yokubi**!
 
@@ -23,3 +24,4 @@ You are welcome to join our [discord community](https://discord.gg/KZj4dVFDzu) f
 If you want to contribute, you can view the project [on github](https://github.com/Morgawr/yokubi) and file issues and pull requests. 
 
 **DO NOT** skip reading the [Before you begin](./Before-you-begin.md) and [Preamble](./Preamble.md) pages. They give you instructions on how to use this guide.
+
