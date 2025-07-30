@@ -9,13 +9,13 @@ The two copulas in Japanese are だ and です. です is more polite than だ. 
 
 Unlike English, the state-of-being word goes **after** the word that you're using to describe something, rather than before it. We will see that this applies to most modifier words in Japanese: they apply to the word on their **left**.
 
-<pre>
-ペンだ。
-It's a pen.
 
-ネコです。
-It is a cat.
-</pre>
+> ペンだ。<br>
+> It's a pen.
+
+> ネコです。<br>
+> It is a cat.
+
 
 The difference between だ and です is generally a matter of politeness and formality. One thing that is important to remember is that while です is the polite version of だ, the two aren’t always interchangeable and have a lot of different uses. You cannot always freely replace だ for です (or vice-versa). You will learn some of those uses in later lessons.
 
@@ -23,25 +23,24 @@ Later you will also see です get used in places where English wouldn't allow "
 
 To state that something is **not**, we turn the だ into ではない and です into ではありません. In speech the では gets slurred into じゃ so じゃない and じゃありません are more common. We will look at what this では does in a later lesson. There exists an alternative to ではありません which is just adding です after ではない/じゃない, the meaning is the same.
 
-<pre>
-人じゃない
-It’s not a person
+> 人じゃない<br>
+> It’s not a person
 
-本じゃないです or 本ではありません 
-It is not a book (polite)
-</pre>
+> 本じゃないです or 本ではありません <br>
+> It is not a book (polite)
+
 
 Japanese has two basic tenses: the plain tense and the past tense. Dictionaries list verbs by their plain tense, hence it’s also called “dictionary form”. In this context, “form” and “tense” are interchangeable. 
 
 The past form of だ is だった. The past form of です is でした.
 
-<pre>
-オレだった！ 
-It was me! (casual)
 
-そうでした
-That was so. (polite)
-</pre>
+> オレだった！ <br>
+> It was me! (casual)
+
+> そうでした<br>
+> That was so. (polite)
+
 
 The dictionary form is usually called the present tense or the non-past tense. It's important to remember that it can be used in a lot of situations. Present tense and non-past tense are reasonable names, but don't treat names like rules, sometimes names are confusing. This guide will be using these names interchangeably.
 

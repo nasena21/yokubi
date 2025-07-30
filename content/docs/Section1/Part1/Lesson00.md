@@ -10,10 +10,9 @@ No matter what, if you cannot “parse” a sentence, you will not understand it
 
 Japanese is an SOV language (Subject-Object-Verb), unlike English which is an SVO (Subject-Verb-Object) one. 
 
-<pre>
-English: I eat (an) apple
-Japanese: I apple eat
-</pre>
+
+> English: I eat (an) apple<br>
+> Japanese: I apple eat
 
 It may seem weird at first, but you will get used to this “backwards” structure in no time as you get exposed to more and more language. Also, plenty of exceptions exist, this order is not a rule but a general recommendation. 
 
@@ -24,9 +23,8 @@ Another specific aspect of Japanese is that it is a pro-drop language. What this
 
 This is because Japanese is a “topic” driven language. Most Japanese conversations begin by setting the stage of what is being talked about, and then add more details with every new statement that relates back to the topic. When the focus shifts, we change the topic by raising a new one. Being able to identify and keep track of how the topic changes is fundamental to get a good “parse” on a sentence. 
 
-<pre>
-English: “I ate an apple then drank some water. What did you do?”   
-Japanese: “<b>About me</b>, apple ate. Later, water drank. <b>About you</b>?”
-</pre>
+> English: “I ate an apple then drank some water. What did you do?”   <br>
+> Japanese: “<b>About me</b>, apple ate. Later, water drank. <b>About you</b>?”
+
 
 It sounds like backwards caveman speak, but that’s just because representing Japanese structure in English is incredibly silly. This is the only example in the entire guide where we’ll be writing unnatural English as a comparison with Japanese. You should not think about Japanese this way. You need to think of Japanese in Japanese, because Japanese is not English. 

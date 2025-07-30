@@ -12,40 +12,35 @@ Japanese has tons of personal pronouns (me, you, them) that English doesn't, but
 
 Here are some examples. Don't bother memorizing these word lists. Learn words outside of this guide.
 
-<pre>
-私・わたし me (normal, slightly formal when men use it)  
-あたし me (casual, feminine)  
-俺・おれ me (casual, masculine)  
-僕・ぼく me (casual or polite, masculine)  
-彼・かれ him  
-彼女・かのじょ her  
-あなた you
-</pre>
+
+> 私・わたし me (normal, slightly formal when men use it)  <br>
+> あたし me (casual, feminine)  <br>
+> 俺・おれ me (casual, masculine)  <br>
+> 僕・ぼく me (casual or polite, masculine)  <br>
+> 彼・かれ him  <br>
+> 彼女・かのじょ her<br>
+> あなた you
+
 
 As mentioned earlier, Japanese does not need to distinguish between singular and plural. Without explicitly adding special pluralizer words, only context will tell you if something is singular or plural. Sometimes, however, you may want to make it clear you're talking about a plural. In this case, you can use special suffixes. One of such suffixes is 達. It can be applied to pronouns and nouns and it is used to refer to the entire group the noun/pronoun belongs to. 
 
-<pre>
-私達・わたしたち Us  
-ジム達・じむたち Jim and company  
-ペン達・ぺんたち The pen and stuff
-</pre>
+> 私達・わたしたち Us<br>
+> ジム達・じむたち Jim and company<br>
+> ペン達・ぺんたち The pen and stuff
 
 達 is usually for living things, and the usage with "pen" above is considered colloquial, or at least informal. It just shows up enough to be worth mentioning.
 
 Japanese has compound words. They work the same way as in English.
 
-<pre>
-町・まち town, district  
-中・なか inside, middle  
-町中・まちなか downtown, the middle of town
-</pre>
+> 町・まち town, district<br>
+> 中・なか inside, middle<br>
+> 町中・まちなか downtown, the middle of town
 
 Japanese has prefixes and suffixes just like English. This is different from compound words. Prefixes and suffixes can't exist as their own standalone word and must be attached to something.
 
-<pre>
-研究・けんきゅう research  
-研究者・けんきゅうしゃ researcher
-</pre>
+> 研究・けんきゅう research<br>
+> 研究者・けんきゅうしゃ researcher
+
 
 者, pronounced しゃ here, is a suffix. It can act like a piece of a compound word, but can't stand on its own as its own word. When 者 appears on its own in a sentence, it's a different word, and not pronounced しゃ. *Thanks, kanji*.
 

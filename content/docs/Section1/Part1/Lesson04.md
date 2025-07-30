@@ -10,12 +10,11 @@ Japanese has two main categories of regular verbs: ichidan (一段) and godan (�
 
 Here's an example, using a ます (polite) form that we'll learn properly in [Lesson 17](./Lesson17.md). Don't bother memorizing this list.
 
-<pre>
-見<b>る</b>／見ます, ichidan verb.
-切<b>る</b>／切<b>り</b>ます, godan verb, ending in る.
-買<b>う</b>／買<b>い</b>ます, godan verb, ending in う.
-死<b>ぬ</b>／死<b>に</b>ます, godan verb, ending in ぬ.
-</pre>
+> 見<b>る</b>／見ます, ichidan verb.<br>
+> 切<b>る</b>／切<b>り</b>ます, godan verb, ending in る.<br>
+> 買<b>う</b>／買<b>い</b>ます, godan verb, ending in う.<br>
+> 死<b>ぬ</b>／死<b>に</b>ます, godan verb, ending in ぬ.
+
 
 Ichidan verbs always end in る, and just drop the る when they conjugate. The stuff leading up to that る is the verb's basic identity, and isn't changed. You can call it the “stem” of the verb. The verb itself, aside from the conjugation, has only "one form".
 
@@ -23,15 +22,26 @@ Godan verbs can end in one of several syllables, not just る. In the dictionary
 
 Godan verbs in the dictionary form can end in one of several different syllables, but it always ends in the (romaji) vowel "u". The following example verbs are all godan. 
 
-<pre>
-切る	殺す	死ぬ	選ぶ	読む	買う	動く	急ぐ	持つ
-</pre>
+
+> 切る<br>
+> 殺す<br>
+> 死ぬ<br>
+> 選ぶ<br>
+> 読む<br>
+> 買う<br>
+> 動く<br>
+> 急ぐ<br>
+> 持つ
+
+
 
 Ichidan verbs always end in る
 
-<pre>
-食べる	負ける	変える
-</pre>
+
+> 食べる<br>
+> 負ける<br>
+> 変える
+
 
 Japanese verb conjugation likes to pile words together, and you end up with long strings of verbs like 見られたくなかった. In future lessons, we start learning the logic behind these long piles of conjugations. It will become easier and easier to break them down the longer you get exposed to the language so don’t worry about it.
 

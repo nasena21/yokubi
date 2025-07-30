@@ -15,9 +15,9 @@ Basic polite verbs are constructed with the auxiliary verb ます attached to a 
 | 切**る**   | 切**ります** | To cut  |
 | 歌**う**   | 歌**います** | To sing |
 
-<div class="warning">
-Do not attach ます after です, it doesn't work. Although you might see it in some media from characters that speak intentionally incorrect Japanese. Do not copy them. 
-</div>
+> [!WARNING]
+> Do not attach ます after です, it doesn't work. Although you might see it in some media from characters that speak intentionally incorrect Japanese. Do not copy them. 
+
 
 In [lesson 9](./Lesson9.md), we mentioned that the past tense of godan verbs comes from the "i" stem. While for some verbs (死ぬ \-\> 死んだ) this stem shows an exception in past form, this does not happen with ます.
 
@@ -59,10 +59,9 @@ The same applies for ないです vs ません as in 食べないです vs 食�
 
 Finally, we come to っす, a slurred version of です or ます used in casual speech. It's less formal than です, but serves the same grammatical roles. It is often used in contexts where you want to be casual but still need to stick to the です/ます social expectations. Kinda like going to work dressed business casual. 
 
-<pre>
-いいです -> いい<b>っす</b>
-犬ですか -> 犬<b>っす</b>か
-</pre>
+> いいです -> いい<b>っす</b>  <br>
+> 犬ですか -> 犬<b>っす</b>か
+
 
 っす is also sometimes used to contract ございます, a keigo version of ある. Again, removing the formality from it, but keeping the politeness.
 

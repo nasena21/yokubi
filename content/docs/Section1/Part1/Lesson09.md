@@ -20,16 +20,13 @@ Note: “a” form and “i” form aren’t real terms, it’s just an example 
 
 Here's an example of these stems in use:
 
-<pre>
-殺<b>す</b>
-He kills
+> 殺<b>す</b><br>
+> He kills<br>
+> 殺<b>さ</b>ない<br>
+> He doesn't kill<br>
+> 殺<b>し</b>た<br>
+> He killed
 
-殺<b>さ</b>ない
-He doesn't kill
-
-殺<b>し</b>た
-He killed
-</pre>
 
 That's right. Basic stuff like tense and negation uses only three stems. There are more stems, but they show up less often. We'll cover them later.
 
@@ -37,10 +34,18 @@ With that out of the way, we can introduce the past tense properly. We've seen t
 
 You'd be right to assume that the た is what makes it the past tense. The hard part is that the stem for the past tense of godan verbs isn't as regular as the stem for the negative form. It depends on the original syllable ending of the plain form. Here are all possibilities:
 
-<pre>
-切<b>る</b>	殺<b>す</b>	死<b>ぬ</b>	選<b>ぶ</b>	読<b>む</b>	買<b>う</b>	動<b>く</b>	急<b>ぐ</b>	持<b>つ</b>
-切<b>った</b>	殺<b>した</b>	死<b>んだ</b>	選<b>んだ</b>	読<b>んだ</b>	買<b>った</b>	動<b>いた</b>	急<b>いだ</b>	持<b>った</b>
-</pre>
+
+|  Non-past | Past Tense  |
+|-----------------|-------------|
+| 切<b>る</b>       | 切<b>った</b>   |
+| 殺<b>す</b>       | 殺<b>した</b>   |
+| 死<b>ぬ</b>       | 死<b>んだ</b>   |
+| 選<b>ぶ</b>       | 選<b>んだ</b>   |
+| 読<b>む</b>       | 読<b>んだ</b>   |
+| 買<b>う</b>       | 買<b>った</b>   |
+| 動<b>く</b>       | 動<b>いた</b>   |
+| 急<b>ぐ</b>       | 急<b>いだ</b>   |
+| 持<b>つ</b>       | 持<b>った</b>   |
 
 Don't memorize this table. There's a rule for this: replace the "u" vowel with an "i" vowel, so you get like 切**り**, 殺**し**, etc. then attach the た after it. However, there are exceptions to this “rule”:
 
