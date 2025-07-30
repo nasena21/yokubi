@@ -4,6 +4,7 @@ toc: false
 ---
 
 This is the landing page.
+<p class="big">Blue text<p>
 
 ## Explore
 
