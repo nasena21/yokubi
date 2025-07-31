@@ -20,24 +20,22 @@ The names given are just simple descriptions/reminders of the form, they aren’
 
 Remember that with godan verbs, there are special rules to conjugate past and て forms. For example for the k row き becomes い:  
 
-<pre>
-書<b>い</b>て
-書<b>い</b>た
-</pre>
+> 書<b>い</b>て  
+> 書<b>い</b>た
+
 
 For ichidan verbs, the stem stays the same so it’s much easier, just replace the る:
 
-<pre>
-食べ(ない) negative form
-食べ(ます) masu form
-食べる plain/dictionary form
-食べ(られる/れる) potential form
-食べ(れば) conditional/ば form
-食べ(ろ) imperative form
-食べ(よう) volitional form
-食べ(て) て form
-食べ(た) past form
-</pre>
+> 食べ(ない) negative form  
+> 食べ(ます) masu form  
+> 食べる plain/dictionary form  
+> 食べ(られる/れる) potential form  
+> 食べ(れば) conditional/ば form  
+> 食べ(ろ) imperative form  
+> 食べ(よう) volitional form  
+> 食べ(て) て form  
+> 食べ(た) past form
+
 
 And the two irregular verbs する and くる:
 
