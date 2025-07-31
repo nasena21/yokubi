@@ -17,8 +17,5 @@ There are many other question words, they all work similarly so we won’t be li
 
 When asking questions, one thing to keep in mind is to **never** mark these words with the particle は. The only exception is some set expressions like 何はともあれ but you can literally count these on one hand.
 
-<pre>
-昨日は誰<b>が</b>来たの？
-Who came (here) yesterday?
-</pre>
-
+> 昨日は誰<b>が</b>来たの？  
+> Who came (here) yesterday?

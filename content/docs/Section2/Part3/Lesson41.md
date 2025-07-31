@@ -27,17 +27,13 @@ As you can see, the pronunciation of these words is incredibly annoying to learn
 
 One interesting exception, on the topic of age, is that ages are sometimes reported directly in numbers without a counter:
 
-<pre>
-ボクはまだ<b>12</b>ですよっ！
-I’m still only 12!
-</pre>
+> ボクはまだ<b>12</b>ですよっ！  
+> I’m still only 12!
 
 If you remember from a previous lesson, counters work like adverbs and can go almost anywhere in a sentence like adverbs do. Also, just like adverbs, counters cannot be marked by case particles. Even though they look like nouns, they aren’t nouns.
 
-<pre>
-二人、兄弟がいる
-兄弟が二人いる
-I have two brothers
-</pre>
+> 二人、兄弟がいる  
+> 兄弟が二人いる  
+> I have two brothers
 
 These two sentences mean the same thing (but the latter is more common)
