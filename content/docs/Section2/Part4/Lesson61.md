@@ -20,7 +20,7 @@ type: docs
 It can also be used to mean "to the point where" or "to the level where" and not an inch beyond that.  
 
 > 毎日食べたい<b>くらい</b>美味しかったです  
-> It was delicious <b>enough that</b> I'd want to eat it every day.  
+> It was delicious <b>to the point</b> where I’d want to eat it every day.
 
 When paired with the は particle it gives a nuance of "at least".  
 
@@ -47,7 +47,7 @@ When paired with the は particle it gives a nuance of "at least".
 > 私は彼ら<b>ほど</b>強くない。  
 > I am not <b>as</b> strong <b>as</b> them.
 
-When ほど modifies quantities, it indicates approximation  
+In positive statements where ほど attaches to an "amount", it's an approximation.
 
 > 中身はまだ半分<b>ほど</b>残っている。  
 > <b>About</b> half of the contents were still left.

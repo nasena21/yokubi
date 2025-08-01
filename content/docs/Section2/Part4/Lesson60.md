@@ -27,28 +27,28 @@ At the core わけ(だ) states a reason, explanation, fact, logical restatement,
 わけにはいかない means that something is not possible according to general knowledge or social expectations.
 
 > このチャンスを逃す<b>わけにはいかない</b>。  
-> <b>I can't afford to</b> let this chance slip away.  
+> <b>I cannot possibly</b> let this chance go. 
 
 Since わけ is a very strong statement, it is often paired with という in the form of というわけ to soften the impact of the expression.
 
 はず expresses that the speaker expects something to factually be true or come true. It can be similar to the English “should” but it does not cover the entire same range of situations. はず also implies that the expectation is based on reasoning and is not pure conjecture.
 
 > こんな<b>はず</b>じゃなかった、こんな<b>はず</b>じゃなかった  
-> It <b>wasn't supposed to</b> be like this, it <b>wasn't supposed to</b> be like this  
+> It <b>shouldn’t</b> have been like this, it <b>shouldn’t</b> have been like this 
 
 > さっきまで自分の部屋にいた<b>はず</b>なのに。  
-> But she <b>should have</b> been in her room until just now...  
+> But she <b>should</b>’ve been in her room until a moment ago...  
 
 > その場にいた全員がそう思った<b>はず</b>だ。  
-> Everyone there <b>must have</b> thought that.  
+> Everybody standing there <b>must</b> have thought that.
 
 べき states that the speaker expects a certain behavior or state to be upheld, because not doing so would be bad, irresponsible, etc.  
 
 > この場から立ち去る<b>べきだ</b>。  
-> <b>You ought to</b> leave this place.  
+> <b>It would be good to</b> leave this place.  
 
 > わからないことは聞く<b>べきだ</b>。  
-> <b>You should</b> ask about things you don't understand.  
+> <b>You should</b> ask about the things you don’t understand.
 
 There are however some situations where using べき isn't always so heavy, especially in questions when asking for someone's wisdom or advice.  
 
@@ -65,11 +65,11 @@ When in the past tense like べきだった, it says that an action or state "wa
 ものだ can also express "should" with the nuance that it's a general "should" that applies to a lot of people, not just a specific person or group. It is often used to state the nature of "how things are".  
 
 > 子供は親の言う事を聞く<b>ものだ</b>。  
-> Children <b>ought to</b> listen to their parents.  
+> Children <b>should</b> listen to what their parents say.
 
 かもしれない is a compound sentence-ender. It attaches the same way as か alone does. It expresses that the speaker thinks the statement is a possibility. Sometimes people attach this to things they know are true for politeness's sake.  
 
 > まだ寝ぼけている<b>かもしれない</b>。  
-> <b>Perhaps</b> she's still half asleep.  
+> <b>Maybe</b> she's still half asleep.  
 
 かもしれない is often shortened to just かも in casual conversation.

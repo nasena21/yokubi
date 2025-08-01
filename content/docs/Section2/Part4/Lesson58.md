@@ -40,10 +40,10 @@ Let's just look at examples and then we can move on. You will pick up some of th
 Some verbs **require** to be paired with an auxiliary verb of directionality to make some of the sentences grammatical. For example the verb 引っ越す means "to move (house/residence)", but unlike English it doesn't have an actual connotation of "movement" or dynamism to it. When you want to use it in the sense of "I just moved here" and highlight a state transition, you must use an auxiliary verb of direction. Other verbs like 送る and 歩く work in a similar way.
 
 > 親の都合で、この街に引っ越し<b>てきた</b>  
-> Due to his parents' circumstances, he moved to this town.  
+> Because of circumstances with his parents, he moved to this town.
 
 > メールを送っ<b>てきた</b>人物は、結局何者だったのか。  
-> Who exactly was the person who sent that email in the end?  
+> Who exactly was the person who sent the email in the end?
 
 > 一人の少女がこちらに歩い<b>てきた</b>。  
-> A lone girl came walking towards me.  
+> A lone girl walked towards me. 

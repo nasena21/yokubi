@@ -31,13 +31,13 @@ Likewise for the negative (ない) forms:
 Even verbs can be paired with なる. Verbs in the negative form conjugate like い adjectives, and the same goes for verbs in たい form. Meanwhile, verbs in plain/non-negative form require an extra helper noun like よう which roughly means “in the manner of” (same よう we have already seen in [Lesson 42](../Part3/Lesson42.md)). 
 
 > たこ焼き食べた<b>くなった</b>。  
-> I <b>came to</b> crave takoyaki  
+> I <b>became</b> to crave for takoyaki
 
 > ここで下がれば本当に道がわから<b>なくなる</b>。  
-> If we go down from here, we'll <b>become</b> completely unable to find the way  
+> If we go down from here, it will <b>become</b> impossible to find the way.
 
 > 見えなかったものが見える<b>ようになる</b>。  
-> Things that weren't visible <b>become</b> visible  
+> The stuff that was not visible <b>become</b> visible  
 
 It is common for the structure ようになる to have the verb in potential form to mean “become able to do” something.
 
@@ -48,10 +48,10 @@ You can consider する to be the "active" version of なる. While \<adverb\> +
 The sentence structure works exactly the same as なる, except we mark the thing that is being "made" with を.
 
 > みんなが目を丸<b>くする</b>。  
-> Everyone's eyes went wide with surprise. (lit: "made their eyes round")  
+> Everyone stared in wonder (lit: "made their eyes a circle")
 
 > 彼女は笑みを深<b>くする</b>。  
-> Her smile deepened. (lit: "made her smile deeper")  
+> She deepened her smile (lit: "made her smile deeper")  
 
 > 美味しいものは人を幸せ<b>にする</b>。  
-> Delicious food brings happiness. (lit: "makes people into happiness")  
+> Tasty things make people happy (lit: "turn people into happiness")

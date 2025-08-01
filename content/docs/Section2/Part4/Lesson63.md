@@ -32,7 +32,7 @@ It can also be used to list possibilities/examples, like か for alternatives.
 こそ is an emphatic particle that acts a lot like stressing the word in english. In other words, it literally emphasizes whatever it attaches to. It often goes “on top” of other particles like が, は, を, etc and hides them.
 
 > こういう時<b>こそ</b>冷静にならないと  
-> <b>Especially</b> at times like these I must keep cool.
+> It is <b>precisely </b> at times like these I must keep cool.
 
 さえ is an emphatic particle that means "even an X", or "only an X", or "as long as X" depending on the phrase. 
 
@@ -51,21 +51,21 @@ It can also be used to list possibilities/examples, like か for alternatives.
 ずつ is a particle that means "each" or "at a time". It emphasizes that the pace of something is steady.
 
 
-> ゆっくり、ゆっくりと、一歩<b>ずつ</b>。
+> ゆっくり、ゆっくりと、一歩<b>ずつ</b>。<br>
 > Slowly... Slowly... one step <b>at a time</b>.
 
 
 がる is an auxiliary verb that means that someone other than the speaker shows signs of something. たがる is a combination of たい and がる, meaning someone looks like they want to do something.
 
 
-> 彼女はそれを知り<b>たがって</b>いた。
+> 彼女はそれを知り<b>たがって</b>いた。<br>
 > She looked like she wanted to know.
 
 
 がち is an auxiliary verb that means that someone or something has a tendency. The tendency is often undesirable from an outside view.
 
 
-> 後ろから、遠慮<b>がち</b>に声が掛けられた。
+> 後ろから、遠慮<b>がち</b>に声が掛けられた。<br>
 > I was called hesitantly by a voice from behind.
 
 
