@@ -33,10 +33,11 @@ The embedded clause inside quotes needs to be a “complete” statement, so if 
 
 When it comes to quotes, って is essentially a colloquial version of と.
 
-> ダメ<b>だって</b>言ったでしょ！
+
+> ダメ<b>だって</b>言ったでしょ！<br>
 > I said no, didn’t I?
 >
-> 何<b>だって</b>？
+> 何<b>だって</b>？<br>
 > What did you say?
 
 As you can see from the second example, the verb (“said”, “thought”, etc) can be often dropped if it’s obvious from context and tone.

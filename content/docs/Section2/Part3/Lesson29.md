@@ -31,8 +31,6 @@ The sentence ending particle ね feels as though the speaker wants the listener 
 To show a simple difference in usage between よ and ね:  
 
 > これ、美味しい<b>ね</b>  
-> This tastes good
-
 > これ、美味しい<b>よ</b>  
 > This tastes good
 
