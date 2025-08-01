@@ -16,7 +16,6 @@ When reading written language, where tone does not come across, writers often in
 >  
 > 暑いですか。
 > Is it hot? (polite)
-> </pre>
 
 When a question is formed with か, the か just goes at the end of the sentence. However, か to ask questions is normally reserved for the polite form (ですか？ and ますか？). In casual form you don’t usually ask questions ending with か as it can sound very stark and too direct. People just use a rising tone of voice like in the example above. 
 

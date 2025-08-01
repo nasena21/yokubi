@@ -93,6 +93,7 @@ There are many other words that fall into the こそあど type of structure. We
 |-----------|-----------|------------|------------|
 | this dude | that dude | that dude  | which dude |
 
-Note: The こちら group can also be used as a polite way to refer to people in a polite setting, because it adds indirectness. On the other hand, the こいつ group can often sound rude so don’t call people こいつ.
+> [!NOTE]
+> The こちら group can also be used as a polite way to refer to people in a polite setting, because it adds indirectness. On the other hand, the こいつ group can often sound rude so don’t call people こいつ.
 
 Just like in English, physical distance is not the only determiner for these words. They can also be used to refer to something that is distant in time. They can even be affected by the degree of familiarity on the topic between the speaker and the listener. Something mentioned earlier in a conversation might be referred to as あの\<thing\>, but something that has just been mentioned is more likely to be その\<thing\> instead. Just like in English we sometimes don’t know if we should say “this” or “that”, even in Japanese people don’t always agree so the distinction is not always strict in these situations.  

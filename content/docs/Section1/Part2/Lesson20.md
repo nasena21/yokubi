@@ -44,16 +44,12 @@ In polite form, we just add ですか after the の, even if it’s a verb sente
 To make の statements, in casual Japanese, you apply the same rule as for の questions, but instead end with のだ (or んだ):
 
 > 学生なんだ  
-> It is a student
-
+>
 > 普通なんだ  
-> It is normal
-
+>
 > 寒いんだ  
-> It is cold
-
+> 
 > 魚を食べるんだ  
-> I eat fish
 
 
 And in polite form it’s the same as with のですか questions, just get rid of the か after です.
