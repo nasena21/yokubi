@@ -10,48 +10,40 @@ When not used with an auxiliary sense, Vていく and Vてくる simply mean wha
 
 Auxiliary ていく roughly means that some event is ongoing and will "keep going" in a direction away from the speaker, either in place or time (present \-\> future). ていく can be contracted as てく.
 
-<pre>
-それはどんどんと大きくなっ<b>ていく</b>。
-That <b>keeps</b> gradually getting larg<b>er and</b> larg<b>er</b>
-</pre>
+> それはどんどんと大きくなっ<b>ていく</b>。  
+> That <b>keeps</b> gradually getting larg<b>er and</b> larg<b>er</b>  
 
-Likewise, auxiliary てくる means that some event was ongoing and has continued approaching from away towards the speaker, either in place or time (past \-\> present), and might even go further.
+Likewise, auxiliary てくる means that some event was ongoing and has continued approaching from away towards the speaker, either in place or time (past → present), and might even go further.  
 
-<pre>
-声が背後から聞こえ<b>てくる</b>。
-I heard a voice <b>coming</b> from behind.
-</pre>
+> 声が背後から聞こえ<b>てくる</b>。  
+> I heard a voice <b>coming</b> from behind.  
 
-Both ていく and てくる are incredibly nuanced in usage and this lesson doesn't even begin to scratch the surface of the complexity of it, especially when you throw different tenses into the mix.
+Both ていく and てくる are incredibly nuanced in usage and this lesson doesn't even begin to scratch the surface of the complexity of it, especially when you throw different tenses into the mix.  
 
-Let's just look at examples and then we can move on. You will pick up some of the nuances and common phrasings with more experience.
+Let's just look at examples and then we can move on. You will pick up some of the nuances and common phrasings with more experience.  
 
-<pre>
-これまで見えなかったものが見えるようになっ<b>てきた</b>。
-The things that up to this point were not visible have started to become visible.
+> これまで見えなかったものが見えるようになっ<b>てきた</b>。  
+> The things that up to this point were not visible have started to become visible.  
 
-周囲が騒がしくなっ<b>てきた</b>。
-The surroundings have started to become noisy.
+> 周囲が騒がしくなっ<b>てきた</b>。  
+> The surroundings have started to become noisy.  
 
-顔色がだんだん悪くなっ<b>てきている</b>。
-Her face has been progressively getting paler.
+> 顔色がだんだん悪くなっ<b>てきている</b>。  
+> Her face has been progressively getting paler.  
 
-時間はあっという間に過ぎ<b>ていった</b>。
-Time went by in a flash.
+> 時間はあっという間に過ぎ<b>ていった</b>。  
+> Time went by in a flash.  
 
-この世界は、少しずつ変わっ<b>ていっている</b>。
-This world is continuously changing little by little.
-</pre>
+> この世界は、少しずつ変わっ<b>ていっている</b>。  
+> This world is continuously changing little by little.  
 
 Some verbs **require** to be paired with an auxiliary verb of directionality to make some of the sentences grammatical. For example the verb 引っ越す means "to move (house/residence)", but unlike English it doesn't have an actual connotation of "movement" or dynamism to it. When you want to use it in the sense of "I just moved here" and highlight a state transition, you must use an auxiliary verb of direction. Other verbs like 送る and 歩く work in a similar way.
 
-<pre>
-親の都合で、この街に引っ越し<b>てきた</b>
-Because of circumstances with his parents, he moved to this town.
+> 親の都合で、この街に引っ越し<b>てきた</b>  
+> Due to his parents' circumstances, he moved to this town.  
 
-メールを送っ<b>てきた</b>人物は、結局何者だったのか。
-Who exactly was the person who sent the email in the end?
+> メールを送っ<b>てきた</b>人物は、結局何者だったのか。  
+> Who exactly was the person who sent that email in the end?  
 
-一人の少女がこちらに歩い<b>てきた</b>。
-A lone girl walked towards me.
-</pre>
+> 一人の少女がこちらに歩い<b>てきた</b>。  
+> A lone girl came walking towards me.  

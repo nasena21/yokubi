@@ -20,10 +20,8 @@ The たり form of a verb is simply the past tense + り:
 
 At the end of a list of 〜たり actions, it is natural to attach the verb する which turns the entire block of verbs into a conjugable phrase that behaves like a giant verb.
 
-<pre>
-手をつない<b>だり</b>、抱きしめあっ<b>たり</b>、キスをし<b>たり</b>したいから。
-Because I want to do <b>things like</b> holding hands, embracing each other, and kissing.
-</pre>
+> 手をつない<b>だり</b>、抱きしめあっ<b>たり</b>、キスをし<b>たり</b>したいから。
+>Because I want to do <b>things like</b> holding hands, embracing each other, and kissing.
 
 Unlike chaining verbs using て form, たり does not assume any strict ordering or precedence of action. It simply states that any of those actions (and even other unstated ones) takes place in whatever order. AてB roughly means "Do A, then do B", while AたりBたりする means "do things like A and B". 
 
@@ -38,30 +36,24 @@ These idiomatic uses of たり sometimes overlap so it's not easy to pinpoint ex
 
 Just like other non-exhaustive listing particles, it can work with just a single element in the list.
 
-<pre>
-笑っ<b>たりして</b>ごめんなさい。
-I'm sorry for laughing. 
-
-実はそう<b>だったりする</b>
-In fact, that's actually the case.
-
-昔はよく一緒に遊ん<b>だりしました.</b>
-We used to play together a lot in the past.
-
-もしかしてお金が必要<b>だったりする</b>のだろうか？
-Is it the case that you might be needing some money maybe?
-</pre>
+> 笑っ<b>たりして</b>ごめんなさい。
+> I'm sorry for laughing. 
+>
+> 実はそう<b>だったりする</b>
+> In fact, that's actually the case.
+>
+> 昔はよく一緒に遊ん<b>だりしました.</b>
+> We used to play together a lot in the past.
+>
+> もしかしてお金が必要<b>だったりする</b>のだろうか？
+> Is it the case that you might be needing some money maybe?
 
 〜たり〜たり can also be used to highlight two actions that happen repeatedly in alternation. In this usage, the two actions are often natural opposites, and the する verb is not used at the end of this たり group.
 
-<pre>
-大きくなっ<b>たり</b>小さくなっ<b>たり</b>。
-It grew big, and then small, and then big, and then small...
-</pre>
+> 大きくなっ<b>たり</b>小さくなっ<b>たり</b>。
+> It grew big, and then small, and then big, and then small...
 
 The ては conjugation can also be used in a similar manner.
 
-<pre>
-飲ん<b>では</b>笑い、笑っ<b>ては</b>飲む。
-He drinks and laughs, then laughs and drinks.
-</pre>
+> 飲ん<b>では</b>笑い、笑っ<b>ては</b>飲む。
+> He drinks and laughs, then laughs and drinks.
